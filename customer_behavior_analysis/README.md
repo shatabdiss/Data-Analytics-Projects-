@@ -56,7 +56,7 @@ Key business questions explored:
 
 Developed an interactive Power BI dashboard to highlight customer behavior, revenue distribution, product performance, and purchasing patterns.
 
-![Power BI Dashboard](images/dashboard.png)
+![Power BI Dashboard](customer_behavior_analysis/Screenshot 2026-11-06 104151.png)
 
 ## 📈 Results & Insights
 
